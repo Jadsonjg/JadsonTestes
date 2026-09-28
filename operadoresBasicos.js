@@ -51,10 +51,10 @@
 // let autorizacaoUsuario = idadeUsuario >= idadeLimite;
 // console.log(autorizacaoUsuario);
 
-let nota = 8
+// let nota = 8
 
-if (nota >= 7) {
-    console.log("Aprovado");
-} else {
-    console.log("Reprovado");
-}
+// if (nota >= 7) {
+//     console.log("Aprovado");
+// } else {
+//     console.log("Reprovado");
+// }
