@@ -35,4 +35,3 @@ function calcular(notas){
 }
 
 calcular(notas)
-
